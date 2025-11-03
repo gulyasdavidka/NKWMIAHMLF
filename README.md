@@ -7,3 +7,5 @@ Jellemzők
 - Kivonás
 - Szorzás
 - Osztás (nullára osztás ellenőrzésével)
+
+Ez egy módosítási teszt sor
