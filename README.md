@@ -9,3 +9,4 @@ Jellemzők
 - Osztás (nullára osztás ellenőrzésével)
 
 Ez egy módosítási teszt sor :)
+Ez is :)
