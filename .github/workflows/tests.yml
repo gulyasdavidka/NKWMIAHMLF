@@ -3,10 +3,10 @@ name: Run Tests
 on:
   pull_request:
     branches:
-      - master
+      - main
   push:
     branches:
-      - master
+      - main
 
 jobs:
   test:
@@ -29,6 +29,6 @@ jobs:
         if: github.event_name == 'pull_request'
         run: pytest test_unit.py
 
-      - name: Run all tests (on master)
-        if: github.ref == 'refs/heads/master'
+      - name: Run all tests (on main)
+        if: github.ref == 'refs/heads/main'
         run: pytest
