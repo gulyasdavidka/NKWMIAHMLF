@@ -8,4 +8,4 @@ Jellemzők
 - Szorzás
 - Osztás (nullára osztás ellenőrzésével)
 
-Ez egy módosítási teszt sor
+Ez egy módosítási teszt sor :)
